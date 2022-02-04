@@ -5,6 +5,6 @@ public class SkillDemoTest {
     @Test
     public void testDouble(){
         int value = SkillDemo.doubling(2);
-        assertEquals(6, value);
+        assertEquals(4, value);
     }
 }
